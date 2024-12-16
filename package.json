@@ -1,0 +1,22 @@
+{
+  "name": "xsn",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --overwrite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^33.2.1",
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "@slack/web-api": "^7.8.0",
+    "electron-store": "^10.0.0"
+  }
+}
