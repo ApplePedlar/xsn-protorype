@@ -10,7 +10,7 @@
 - 自分宛ての DM やメンションが来たら、全画面の通知ウインドウが表示される
 - ウインドウが閉じると Slack で該当メッセージが表示される
 
-[screenshot.png](screenshot.png)
+![screenshot.png](screenshot.png)
 
 ## 事前準備
 
